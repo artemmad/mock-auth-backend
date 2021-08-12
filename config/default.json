@@ -1,6 +1,6 @@
 {
-  "port": 8085,
-  "cors-origin": "http://localhost:8080",
+  "port": 80,
+  "cors-origin": "*",
   "secret": "supda-dupa-secret",
   "debugOutput": true,
   "authenticationRoute": "/auth",
